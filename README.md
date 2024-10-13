@@ -17,7 +17,7 @@ The app is customisable, allowing users to control various aspects of the visual
 
 To see the effect in action, simply open the app in your browser, move your mouse around, and adjust the sliders to experiment with different visual effects.
 
-[Live demo](andygock.github.io/colour-drops/)
+[Live demo](https://andygock.github.io/colour-drops/)
 
 https://github.com/user-attachments/assets/635b4325-f54e-48e7-91c5-87b1e0048048
 
