@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="favicon.png" type="image/png" />
+    <title>Interactive Colour Flow Effect</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <canvas id="swirlCanvas"></canvas>
+    <div class="controls">
+      <label>
+        <input type="range" id="dropSize" min="5" max="200" value="100" />Drop
+        Size</label
+      >
+      <label>
+        <input
+          type="range"
+          id="speed"
+          min="0.1"
+          max="20"
+          step="0.1"
+          value="15"
+        />Speed</label
+      >
+      <label>
+        <input
+          type="range"
+          id="decay"
+          min="0.001"
+          max="0.05"
+          step="0.001"
+          value="0.025"
+        />Opacity Decay</label
+      >
+      <label>
+        <input type="range" id="hueRate" min="1" max="20" value="5" />Hue Change
+        Rate</label
+      >
+      <!-- <label
+        ><input type="color" id="bgColor" value="#000000"
+      />Background Color</label> -->
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
