@@ -3,7 +3,6 @@
 This is an interactive web-based application that creates a visually stunning, smooth, continuous flow of colour drops that follow the user's mouse movement.
 
 The app is customisable, allowing users to control various aspects of the visual effect in real time through a set of adjustable sliders, such as the size of the colour "drops", their speed, decay rate and hue change speed.
-
 ## Features
 
 - **Fluid Colour Flow**: As the mouse moves, smooth, swirling drops of colour follow the cursor, blending into a continuous flow that resembles mixing food dye and oil.
@@ -17,6 +16,10 @@ The app is customisable, allowing users to control various aspects of the visual
 ## Demo
 
 To see the effect in action, simply open the app in your browser, move your mouse around, and adjust the sliders to experiment with different visual effects.
+
+[Live demo](andygock.github.io/colour-drops/)
+
+https://github.com/user-attachments/assets/635b4325-f54e-48e7-91c5-87b1e0048048
 
 ## How It Works
 
